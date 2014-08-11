@@ -7,7 +7,7 @@ All you need is to be logged in - you can do it when tweeting.
 Source at:
 https://github.com/hfiguiere/tweet-that
 
-![](data/screenshout.png)
+![](data/screenshot.png)
 
 How to use this:
 
